@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "235726775529",
+    "firebase_url": "https://flutter-task-78c3f.firebaseio.com",
+    "project_id": "flutter-task-78c3f",
+    "storage_bucket": "flutter-task-78c3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235726775529:android:8ef653bf26f6f05d",
+        "android_client_info": {
+          "package_name": "com.kenaristudio.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235726775529-3fco46s9culh4hbgbno62990uv8va0sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenaristudio.task",
+            "certificate_hash": "dd11bd1cb990aea6366320b4cbd683af330f0d61"
+          }
+        },
+        {
+          "client_id": "235726775529-bd1it9m1qlu8kdskratdp46lo67e2bl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbeIlRN5Y7gsHSSs1470aqWyx4ZIER-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235726775529-bd1it9m1qlu8kdskratdp46lo67e2bl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
